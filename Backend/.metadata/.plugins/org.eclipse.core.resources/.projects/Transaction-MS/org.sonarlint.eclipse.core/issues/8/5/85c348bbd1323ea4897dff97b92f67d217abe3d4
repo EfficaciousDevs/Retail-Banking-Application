@@ -1,0 +1,27 @@
+
+ƒ
+java:S3973š"GUse indentation to denote the code conditionally executed by this "if".(¶¥Œéşÿÿÿÿ8àÕÍÁµ/H”RCRITICALZ
+CODE_SMELL
+g
+java:S2259]"CA "NullPointerException" could be thrown; "check" is nullable here.(ŸŒÜÎH,RMAJORZBUG
+a
+java:S2589`"7Remove this expression which always evaluates to "true"(ÎÙÅ
+H3RMAJORZ
+CODE_SMELL
+l
+java:S2259/"CA "NullPointerException" could be thrown; "check" is nullable here.(É ½çøÿÿÿÿH(RMAJORZBUG
+m
+java:S3516S"9Refactor this method to not always return the same value.(Ã‡Õ·8Öâ¢Áµ/HsRBLOCKERZ
+CODE_SMELL
+W
+java:S1125/"'Remove the unnecessary boolean literal.(É ½çøÿÿÿÿH6RMINORZ
+CODE_SMELL
+g
+java:S25895"7Remove this expression which always evaluates to "true"(¬‡ÂúÿÿÿÿH0RMAJORZ
+CODE_SMELL
+
+java:S3973h"GUse indentation to denote the code conditionally executed by this "if".(¶¥Œéşÿÿÿÿ8›’Áµ/HQRCRITICALZ
+CODE_SMELL
+_
+java:S10666"/Merge this if statement with the enclosing one.(Ÿ¹£ìıÿÿÿÿH&RMAJORZ
+CODE_SMELL

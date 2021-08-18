@@ -1,0 +1,16 @@
+
+a
+java:S2699ô"-Add at least one assertion to this test case.(µ…Ü„øÿÿÿÿH¹RBLOCKERZ
+CODE_SMELL
+
+java:S58266"aAnnotate this method with JUnit5 '@org.junit.jupiter.api.BeforeEach' instead of JUnit4 '@Before'.(–ïîHºRCRITICALZ
+CODE_SMELL
+I
+java:S5786E"Remove this 'public' modifier.(‚ğ±¶H»RINFOZ
+CODE_SMELL
+I
+java:S5786O"Remove this 'public' modifier.(çÎãÙH¼RINFOZ
+CODE_SMELL
+N
+java:S5786$"Remove this 'public' modifier.(ğáñºûÿÿÿÿH½RINFOZ
+CODE_SMELL

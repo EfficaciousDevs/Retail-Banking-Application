@@ -1,0 +1,133 @@
+<style type="text/css">
+  body{
+    margin: 0;
+    background-color: lightgreen;
+  }
+  main{
+    width: 90vw;
+    height: 90vh;
+    background-image: radial-gradient(circle , #ee6a92, #af65b0, #160d79);
+    border-radius: 50px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+  }
+  #heading{
+    text-align: center;
+    width: 100%;
+    height: 20%;
+  }
+  #heading h1,h3{
+    margin: 10px 2px 5px 70px;
+    color: white;
+    font-family: sans-serif;
+
+  }
+  #details-container{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    justify-content: space-around;
+  }
+  #info{
+    width: 48%;
+    color: white;
+  }
+  #details-container h1{
+    color: white;
+    font-family: sans-serif;
+    padding: 5px;
+  }
+  #photo1{
+    width: 50%;
+    background-image: url('../../assets/images/cards.png');
+    background-repeat: no-repeat;
+    opacity: 0.7;
+
+  }
+  #photo2{
+    width: 48%;
+    background-image: url('../../assets/images/banking.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+</style>
+<section>
+<body>
+  <app-header></app-header>
+
+
+
+  <br>
+  <br>
+  <!-- body div container 1 -->
+  <!-- <div class="container" style="object-fit: cover;">
+    <h2 class="text-centre">Welcome to Citizen Bank</h2>
+
+    <p class="container" style="font-size: larger;">Banking at your fingertip ...!</p>
+  </div>
+
+  <br>
+
+  <div class="container text-white" style="object-fit: cover;">
+    <div class="jumbotron bg-cover"
+      style="background-image: url('../../assets/images/welcome.jfif');background-repeat: no-repeat;background-size: 1120px 400px;width:1120px; height: 400px;">
+
+    </div>
+  </div> -->
+
+    <main>
+  <div id="heading">
+    <h1>Welcome to Digital Finance Bank</h1>
+    <h3>Powering Your Dreams</h3>
+  </div>
+  <div id="details-container">
+    <div id="photo1">
+      <h1 style="background-color: lightgreen; color: red;">Payments have never been easier</h1>
+
+      </div>
+    <div id="photo2">
+
+    </div>
+
+  </div>
+  </main>
+
+
+  <br>
+  <br>
+
+
+  <!-- Body div container 2 -->
+  <div class="container card-group ">
+    <div class="card">
+
+      <div class="card-body bg-info p-5 my-10">
+        <h5 class="card-title">Locate Us</h5>
+        <p class="card-text">You are never too far away from quick,
+          efficient banking services. Locate your nearest branch or an ATM.</p>
+
+      </div>
+    </div>
+    <div class="card">
+
+      <div class="card-body bg-info p-5 my-10">
+        <h5 class="card-title">Call Us</h5>
+        <p class="card-text">In case you wish to speak to our phone
+          banking officer for urgent resolution.</p>
+      </div>
+    </div>
+    <div class="card">
+
+      <div class="card-body bg-info p-5 my-10">
+        <h5 class="card-title">Write to Us</h5>
+        <p class="card-text">Be it an enquiry, feedback or a simple
+          suggestion, write to us & we'll get back to you.</p>
+      </div>
+    </div>
+  </div>
+
+  <br>
+  <br>
+</body>
+</section>
